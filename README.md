@@ -1,13 +1,27 @@
-<h2> Hey there! I'm Nikhil.</h2>
+<div style="background-color:#121212">
+<div style="color:#fff">
+<br>
+  
+## Hi there, I'm <a href="https://portfolio-drab-gamma.vercel.app/" target="_blank">Nikhil Kumar Kataria</a> 👋
+  ## [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=4FD7F7&background=2D4FEA00&width=435&lines=I+am+a+Competitive+Coder;I+am+a+Developer+too.)](https://git.io/typing-svg)
 
-<h3> 👨🏻‍💻 &nbsp;About Me </h3>
+  <br/>
+  I am a young and enthusiastic developer. I love development and coding. **I am learning, growing and achieving everyday...**
+  
+  
+  ### Let us know something about me:
 
-- 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
-- 🎓 &nbsp; Studying Computer Science at Lovely Professional Uiversity.
-- 🌱 &nbsp; Learning more about Data Structure,  Data Science ,Cyber Security ,Machine Learning, Systems Design and Artificial Intelligence.
-- ✍️ &nbsp; Pursuing Graphic Design, Full Stack Developer and Hacking.
+- 👨🏻‍💻 I’m working on ReactJs and NodeJs.
+- 🤔 Exploring new technologies and developing software solutions and quick hacks.
+- 🎓 Studying Computer Science at Lovely Professional Uiversity.
+- 🌱 Learning more about Data Structure,  Data Science ,Cyber Security ,Machine Learning, Systems Design and Development.
+- 💬 Ask me about anything, I'll be glad to help.
+- 📫 Email me: nikhil.12001995@lpu.in.
+- 📝 Have a glance at my [Resume](https://drive.google.com/file/d/13zaJeEwSQrtKPc8-9auJ_hSlX6FV3-zJ/view?usp=sharing).
+  
+</br>
 
-<h3> 🛠 &nbsp;Tech Stack</h3>
+### 🛠 Tech Stack
 
 - 💻 &nbsp;
   ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
@@ -34,29 +48,34 @@
 
 <br/>
 
+
+
+<br/>
+  
+📈 **My GitHub Stats:**
+<br><br>
 <a href="https://github.com/Nikhil3389">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Nikhil3389&theme=buefy&show_icons=true" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nikhil3389&theme=buefy&layout=compact" />
 </a>
+<br>
+<br>
 
-<br/>
+[![GitHub Streak](https://streak-stats.demolab.com?user=Nikhil3389)](https://git.io/streak-stats)
+  
+
 ### Glad to see you here! Feel free to connect with me:
 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://linkedin.com/in/samrath-singh-kalra)
-[![Website Badge](https://img.shields.io/badge/Website-3b5998?style=flat-square&logo=google-chrome&logoColor=white)](https://hitman-samrath.github.io/Portfolio)
-[![Twitter Badge](https://img.shields.io/badge/-Twitter-00acee?style=flat-square&logo=Twitter&logoColor=white)](https://twitter.com/HitmanSamrath)
-[![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white)](https://instagram.com/samrathsinghrohit/)
-[![Telegram Badge](https://img.shields.io/badge/-Telegram-0088cc?style=flat-square&logo=Telegram&logoColor=white)](https://t.me/samrathsinghrohit)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://linkedin.com/in/nikhil-kumar-kataria)
+[![Website Badge](https://img.shields.io/badge/Website-3b5998?style=flat-square&logo=google-chrome&logoColor=white)](https://portfolio-drab-gamma.vercel.app/)
+[![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white)](https://instagram.com/nikhilkumarkataria)
+<!-- [![Telegram Badge](https://img.shields.io/badge/-Telegram-0088cc?style=flat-square&logo=Telegram&logoColor=white)]() -->
 
-I am a young and enthusiastic developer. I love development, coding, writing and traveling. **I am learning, growing and achieving everyday...**
-<img align="right" alt="GIF" src="./coding2.gif" width="300" height="300"/>
+
+
 <br>
-<h3> 🤝🏻 &nbsp;Connect with Me </h3>
+  </div>
+</div>
 
-<p align="center">
-<a href="https://www.linkedin.com/in/nikhil-kumar-kataria-7775311b7/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Nikhil%20Kumar%20Kataria-blue?style=flat-square&logo=linkedin"></a>
-<a href="https://www.instagram.com/nikhilkumarkataria/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-nikhilkumarkataria__-blue?style=flat-square&logo=instagram"></a>
-<a href="mailto:nikhil.12001995@lpu.in"><img alt="Email" src="https://img.shields.io/badge/Email-nikhil.12001995@lpu.in-blue?style=flat-square&logo=gmail"></a>
-</p>
 
 ⭐️ From [Nikhil3389](https://github.com/Nikhil3389)
